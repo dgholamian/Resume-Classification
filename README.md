@@ -64,35 +64,33 @@ This project is divided into the following key steps:
    #### 7.2. [Word Cloud Before Cleaning Text Per Category](#custom-id-2)
    - Word cloud analysis for each resume category before text cleaning.
 
-   #### 7.3. **Word Cloud After Cleaning Text**
+   #### 7.3. [Word Cloud After Cleaning Text](#custom-id-3)
    - Word cloud visualization after text cleaning to highlight meaningful features.
 
-   #### 7.4. **Word Cloud After Cleaning Text Per Category**
+   #### 7.4. [Word Cloud After Cleaning Text Per Category](#custom-id-4)
    - Per-category word clouds generated after text cleaning.
 
-   #### 7.5. **Bar Plot for Checking Label Distribution**
+   #### 7.5. [Bar Plot for Checking Label Distribution](#custom-id-5)
    - Visual representation of the distribution of labels across the dataset.
 
-   #### 7.6. **BERT Accuracy (Training and Validation Dataset)**
+   #### 7.6. [BERT Accuracy (Training and Validation Dataset)](#custom-id-6)
    - Accuracy achieved by the `BERT` model on training and validation datasets.
 
-   #### 7.7. **BERT Loss (Training Dataset)**
+   #### 7.7. [BERT Loss (Training Dataset)](#custom-id-7)
    - Loss trajectory during `BERT` training.
 
-   #### 7.8. **DistilBERT Accuracy (Training and Validation Dataset)**
+   #### 7.8. [DistilBERT Accuracy (Training and Validation Dataset)](#custom-id-8)
    - Accuracy achieved by the `DistilBERT` model on training and validation datasets.
 
-   #### 7.9. **DistilBERT Loss (Training Dataset)**
+   #### 7.9. [DistilBERT Loss (Training Dataset)](#custom-id-9)
    - Loss trajectory during `DistilBERT` training.
 
-   #### 7.10. **BERT Confusion Matrix (Test Dataset)**
+   #### 7.10. [BERT Confusion Matrix (Test Dataset)](#custom-id-10)
    - Confusion matrix for `BERT` predictions on the test dataset.
 
-   #### 7.11. **DistilBERT Confusion Matrix (Test Dataset)**
+   #### 7.11. [DistilBERT Confusion Matrix (Test Dataset)](#custom-id-11)
    - Confusion matrix for `DistilBERT` predictions on the test dataset.
 
-  
-  
   
    <h4 id="custom-id-1">Word Cloud Before Cleaning Text</h4>
    
@@ -102,4 +100,46 @@ This project is divided into the following key steps:
    <h4 id="custom-id-2">Word Cloud Before Cleaning Text Per Category</h4>
    
    ![Word Cloud Before Cleaning Text Per Category](figures/word_cloud_per_category_raw_text.png)
+
+
+   <h4 id="custom-id-3">Word Cloud After Cleaning Text</h4>
+   
+   ![Word Cloud After Cleaning Text](figures/word_cloud_cleaned_text.png)
+
+   <h4 id="custom-id-4">Word Cloud After Cleaning Text Per Category</h4>
+   
+   ![Word Cloud After Cleaning Text Per Category](figures/word_cloud_per_category_cleaned_text.png)
+
+   <h4 id="custom-id-5">Bar Plot for Checking Label Distribution</h4>
+   
+   ![Bar Plot for Checking Label Distribution](figures/label_distribution.png)
+
+   <h4 id="custom-id-6">BERT Accuracy (Training and Validation Dataset)</h4>
+   
+   ![BERT Accuracy (Training and Validation Dataset)](figures/accuracy_bert.png)
+
+   <h4 id="custom-id-7">BERT Loss (Training Dataset)</h4>
+   
+   ![BERT Loss (Training Dataset)](figures/loss_bert.png)
+
+
+   <h4 id="custom-id-8">DistilBERT Accuracy (Training and Validation Dataset)</h4>
+   
+   ![DistilBERT Accuracy (Training and Validation Dataset)](figures/accuracy_distilbert.png)
+
+
+   <h4 id="custom-id-9">DistilBERT Loss (Training Dataset)</h4>
+   
+   ![DistilBERT Loss (Training Dataset)](figures/loss_distilbert.png)
+
+
+   <h4 id="custom-id-10">BERT Confusion Matrix (Test Dataset)</h4>
+   
+   ![BERT Confusion Matrix (Test Dataset)](figures/bert_confusion_matrix.png)
+
+   <h4 id="custom-id-11">DistilBERT Confusion Matrix (Test Dataset)</h4>
+   
+   ![DistilBERT Confusion Matrix (Test Dataset)](figures/distil_bert_confusion_matrix.png)
+
+   
    
