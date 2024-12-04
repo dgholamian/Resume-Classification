@@ -96,4 +96,4 @@ This project is divided into the following key steps:
   
   
    <h4 id="custom-id">Word Cloud Before Cleaning Text</h4>
-   ![Word Cloud Before Cleaning](figures/word_cloud_raw_text.png)
+   ![Word Cloud Before Cleaning Text](https://github.com/dgholamian/Resume-Classification/blob/main/figures/word_cloud_raw_text.png)
