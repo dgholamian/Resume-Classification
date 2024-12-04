@@ -94,5 +94,5 @@ This project is divided into the following key steps:
 
 
 
-#### 7.1. **[Word Cloud Before Cleaning Text](#71-word-cloud-before-cleaning-text)**
+   **[Word Cloud Before Cleaning Text](#71-word-cloud-before-cleaning-text)**
    ![Word Cloud Before Cleaning Text](figures/word_cloud_raw_text.png)
