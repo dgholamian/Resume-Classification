@@ -58,10 +58,10 @@ This project is divided into the following key steps:
 ### 7. **Results**
    The following visualizations and metrics were generated during the project:
 
-   #### 7.1. [Word Cloud Before Cleaning Text](#custom-id_1)
+   #### 7.1. [Word Cloud Before Cleaning Text](#custom-id-1)
    - Visual representation of the text data before applying cleaning techniques.
 
-   #### 7.2. [Word Cloud Before Cleaning Text Per Category](#custom-id_2)
+   #### 7.2. [Word Cloud Before Cleaning Text Per Category](#custom-id-2)
    - Word cloud analysis for each resume category before text cleaning.
 
    #### 7.3. **Word Cloud After Cleaning Text**
@@ -94,12 +94,12 @@ This project is divided into the following key steps:
   
   
   
-   <h4 id="#custom-id_1">Word Cloud Before Cleaning Text</h4>
+   <h4 id="#custom-id-1">Word Cloud Before Cleaning Text</h4>
    
    ![Word Cloud Before Cleaning Text](figures/word_cloud_raw_text.png)
 
 
-   <h4 id="#custom-id_2">Word Cloud Before Cleaning Text Per Category</h4>
+   <h4 id="#custom-id-2">Word Cloud Before Cleaning Text Per Category</h4>
    
    ![Word Cloud Before Cleaning Text](figures/word_cloud_per_category_raw_text.png)
    
