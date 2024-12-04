@@ -94,12 +94,12 @@ This project is divided into the following key steps:
   
   
   
-   <h4 id="#custom-id-1">Word Cloud Before Cleaning Text</h4>
+   <h4 id="custom-id-1">Word Cloud Before Cleaning Text</h4>
    
    ![Word Cloud Before Cleaning Text](figures/word_cloud_raw_text.png)
 
 
-   <h4 id="#custom-id-2">Word Cloud Before Cleaning Text Per Category</h4>
+   <h4 id="custom-id-2">Word Cloud Before Cleaning Text Per Category</h4>
    
    ![Word Cloud Before Cleaning Text Per Category](figures/word_cloud_per_category_raw_text.png)
    
