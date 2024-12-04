@@ -58,8 +58,36 @@ This project is divided into the following key steps:
 ### 7. **Results**
    The following visualizations and metrics were generated during the project:
 
+   - [Word Cloud Before Cleaning Text](#71-word-cloud-before-cleaning-text)
 
-   #### 7.1. **Word Cloud Before Cleaning Text(#word-cloud-before-cleaning)**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   #### 7.1. **[Word Cloud Before Cleaning Text](#71-word-cloud-before-cleaning-text)**
+   ![Word Cloud Before Cleaning Text](figures/word_cloud_raw_text.png)
    - Visual representation of the text data before applying cleaning techniques.
 
    #### 7.2. **Word Cloud Before Cleaning Text Per Category**
@@ -93,7 +121,6 @@ This project is divided into the following key steps:
    - Confusion matrix for `DistilBERT` predictions on the test dataset.
 
 
-### Word Cloud Before Cleaning Text
-![Word Cloud Before Cleaning](figures/word_cloud_raw_text.png)
+![Word Cloud Before Cleaning Text](figures/word_cloud_raw_text.png)
 
 
