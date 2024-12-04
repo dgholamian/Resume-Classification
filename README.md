@@ -59,7 +59,7 @@ This project is divided into the following key steps:
    The following visualizations and metrics were generated during the project:
 
 
-   #### 7.1. **Word Cloud Before Cleaning Text**
+   #### 7.1. **Word Cloud Before Cleaning Text(#word-cloud-before-cleaning)**
    - Visual representation of the text data before applying cleaning techniques.
 
    #### 7.2. **Word Cloud Before Cleaning Text Per Category**
