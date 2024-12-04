@@ -58,7 +58,7 @@ This project is divided into the following key steps:
 ### 7. **Results**
    The following visualizations and metrics were generated during the project:
 
-   - [Word Cloud Before Cleaning Text](#71-word-cloud-before-cleaning-text)
+   - **[Word Cloud Before Cleaning Text](#71-word-cloud-before-cleaning-text)**
 
 
 
